@@ -32,6 +32,7 @@ NumPy	Numerical operations
 Matplotlib	Data visualization
 Jupyter Notebook	Analysis environment
 
+
 📂 Repository Structure
 Superstore-Sales-Profit-Analysis/
 │
@@ -111,22 +112,9 @@ Superstore-Sales-Profit-Analysis/
 ├── images/                      # Exported charts (.png) from the notebook
 ├── requirements.txt             # Python dependencies
 └── README.md
-🚀 How to Run
-bash
-# 1. Clone the repository
-git clone https://github.com/kumar905/Superstore-Sales-Profit-Analysis.git
-cd Superstore-Sales-Profit-Analysis
 
-# 2. Install dependencies
-pip install -r requirements.txt
 
-# 3. Add the dataset
-# Download "Sample - Superstore.csv" (Kaggle: "Superstore Sales Dataset")
-# and place it inside the data/ folder
-
-# 4. Launch the notebook
-jupyter notebook E-Commerce_Sales.ipynb
-🔍 Analysis Workflow
+🔍 **Analysis Workflow**
 Data Cleaning — checked for duplicates and null values (none found), converted Order Date/Ship Date to datetime, derived Order Year, Order Month, and Order Month Name
 Monthly Sales & Profit Trends — grouped by month across all years to reveal seasonality
 Category / Sub-Category Analysis — aggregated sales and profit to find top and bottom performers
