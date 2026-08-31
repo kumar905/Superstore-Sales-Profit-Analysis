@@ -1,4 +1,4 @@
-#### Superstore Sales & Profit Analysis
+### Superstore Sales & Profit Analysis
 
 An end-to-end exploratory data analysis (EDA) of the Sample Superstore dataset — a US retail store's order-level data — built entirely with pandas, NumPy, and Matplotlib (no Plotly/Seaborn). The project uncovers monthly sales & profit trends, category/sub-category performance, customer-segment behavior, and profit efficiency.
 
