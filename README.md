@@ -37,22 +37,6 @@ Superstore-Sales-Profit-Analysis/
 ├── requirements.txt             # Python dependencies
 └── README.md
 
-🚀 How to Run
-bash
-# 1. Clone the repository
-git clone https://github.com/kumar905/Superstore-Sales-Profit-Analysis.git
-cd Superstore-Sales-Profit-Analysis
-
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Add the dataset
-# Download "Sample - Superstore.csv" (Kaggle: "Superstore Sales Dataset")
-# and place it inside the data/ folder
-
-# 4. Launch the notebook
-jupyter notebook E-Commerce_Sales.ipynb
-
 🔍 Analysis Workflow
 Data Cleaning — checked for duplicates and null values (none found), converted Order Date/Ship Date to datetime, derived Order Year, Order Month, and Order Month Name
 Monthly Sales & Profit Trends — grouped by month across all years to reveal seasonality
@@ -91,6 +75,7 @@ Investigate Furniture profitability — Tables and Bookcases operate at a loss; 
 Double down on Technology — highest sales and highest profit; a strong candidate for continued investment/promotion
 Re-examine Consumer segment discounting — despite leading on total profit, it has the lowest profit margin of the three segments
 Plan inventory/staffing around seasonality — sales and profit both peak toward year-end (Nov–Dec), suggesting a strong holiday shopping pattern
+
 👤 Author
 
 Kumar Dadarao Wankhade Aspiring Data Analyst | Python · SQL · Power BI
