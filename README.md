@@ -36,9 +36,13 @@ The Sample Superstore dataset contains 9,994 order line items from a US-based re
 🔍 **Analysis Workflow**
 
 Data Cleaning — checked for duplicates and null values (none found), converted Order Date/Ship Date to datetime, derived Order Year, Order Month, and Order Month Name
+
 Monthly Sales & Profit Trends — grouped by month across all years to reveal seasonality
+
 Category / Sub-Category Analysis — aggregated sales and profit to find top and bottom performers
+
 Segment Analysis — compared Consumer, Corporate, and Home Office on sales, profit, and margin
+
 Profit Efficiency — computed a Sales-to-Profit ratio and profit margin % per segment and category
 
 
