@@ -6,7 +6,7 @@ Show Image Show Image Show Image Show Image Show Image
 
 Show Image Show Image
 
-📌 Project Overview
+📌# **Project Overview**
 
 The Sample Superstore dataset contains 9,994 order line items from a US-based retail store, spanning 3 product categories (Furniture, Office Supplies, Technology) across 17 sub-categories, sold to 3 customer segments (Consumer, Corporate, Home Office). This case study answers seven core business questions using pure Python data analysis — no BI tool involved.
 
