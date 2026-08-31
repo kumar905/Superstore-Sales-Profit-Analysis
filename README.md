@@ -9,27 +9,28 @@ The Sample Superstore dataset contains 9,994 order line items from a US-based re
 
 
 🎯 **Objectives**
-Calculate monthly sales and identify the highest/lowest sales months
-Analyze sales by product category — highest and lowest performing category
-Break down sales performance by sub-category
-Analyze monthly profit and identify the most profitable month
-Analyze profit by category and sub-category
-Analyze sales and profit by customer segment
-Analyze the sales-to-profit ratio (profit efficiency)
+
+1. Calculate monthly sales and identify the highest/lowest sales months
+2. Analyze sales by product category — highest and lowest performing category
+3. Break down sales performance by sub-category
+4. Analyze monthly profit and identify the most profitable month
+5. Analyze profit by category and sub-category
+5. Analyze sales and profit by customer segment
+6. Analyze the sales-to-profit ratio (profit efficiency)
 
 
 🛠️ **Tools & Libraries**
 
 
-Python	Core language
+1. Python	Core language
 
-pandas	Data loading, cleaning, aggregation
+2. pandas	Data loading, cleaning, aggregation
 
-NumPy	Numerical operations
+3. NumPy	Numerical operations
 
-Matplotlib	Data visualization
+4. Matplotlib	Data visualization
 
-Jupyter Notebook	Analysis environment
+5. Jupyter Notebook	Analysis environment
 
 
 🔍 **Analysis Workflow**
@@ -109,20 +110,18 @@ Sales-to-Profit Ratio by Segment (bar chart)
 
 💡 Superstore Sales & Profit Analysis
 
-An end-to-end exploratory data analysis (EDA) of the Sample Superstore dataset — a US retail store's order-level data — built entirely with pandas, NumPy, and Matplotlib (no Plotly/Seaborn). The project uncovers monthly sales & profit trends, category/sub-category performance, customer-segment behavior, and profit efficiency.
-
-
-
-📌 Project Overview
-
-The Sample Superstore dataset contains 9,994 order line items from a US-based retail store, spanning 3 product categories (Furniture, Office Supplies, Technology) across 17 sub-categories, sold to 3 customer segments (Consumer, Corporate, Home Office). This case study answers seven core business questions using pure Python data analysis — no BI tool involved.
+An end-to-end exploratory data analysis (EDA) of the Sample Superstore dataset a US retail store's order-level data built entirely with pandas, NumPy, and Matplotlib (no Plotly/Seaborn). The project uncovers monthly sales & profit trends, category/sub-category performance, customer-segment behavior, and profit efficiency.
 
 
 
 💡 Business Recommendations
+
 Investigate Furniture profitability — Tables and Bookcases operate at a loss; review discounting and pricing strategy for these sub-categories
+
 Double down on Technology — highest sales and highest profit; a strong candidate for continued investment/promotion
+
 Re-examine Consumer segment discounting — despite leading on total profit, it has the lowest profit margin of the three segments
+
 Plan inventory/staffing around seasonality — sales and profit both peak toward year-end (Nov–Dec), suggesting a strong holiday shopping pattern
 
 
