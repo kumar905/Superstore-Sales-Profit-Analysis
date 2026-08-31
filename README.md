@@ -9,7 +9,7 @@ Show Image
 
 The Sample Superstore dataset contains 9,994 order line items from a US-based retail store, spanning 3 product categories (Furniture, Office Supplies, Technology) across 17 sub-categories, sold to 3 customer segments (Consumer, Corporate, Home Office). This case study answers seven core business questions using pure Python data analysis — no BI tool involved.
 
-🎯 Objectives
+🎯 **Objectives**
 Calculate monthly sales and identify the highest/lowest sales months
 Analyze sales by product category — highest and lowest performing category
 Break down sales performance by sub-category
@@ -19,6 +19,7 @@ Analyze sales and profit by customer segment
 Analyze the sales-to-profit ratio (profit efficiency)
 
 🛠️ **Tools & Libraries**
+
 Tool	Purpose
 Python	Core language
 pandas	Data loading, cleaning, aggregation
@@ -37,8 +38,11 @@ Profit Efficiency — computed a Sales-to-Profit ratio and profit margin % per s
 
 #	Question	Finding
 1	Monthly sales — highest / lowest	Nov ($352,461) highest · Feb ($59,751) lowest
+
 2	Category sales — highest / lowest	Technology ($836,154) highest · Office Supplies ($719,047) lowest
+
 3	Sub-category sales — highest / lowest	Phones ($330,007) highest · Fasteners ($3,024) lowest
+
 4	Monthly profit — highest	Dec ($43,369)
 5	Category profit — highest / lowest	Technology ($145,455) highest · Furniture ($18,451) lowest
 5	Sub-category profit — highest / lowest	Copiers ($55,618) highest · Tables (-$17,725, a loss) lowest
@@ -75,5 +79,5 @@ Double down on Technology — highest sales and highest profit; a strong candida
 Re-examine Consumer segment discounting — despite leading on total profit, it has the lowest profit margin of the three segments
 Plan inventory/staffing around seasonality — sales and profit both peak toward year-end (Nov–Dec), suggesting a strong holiday shopping pattern
 
-👤 Author
+👤 **Author**
 Kumar Dadarao Wankhade Aspiring Data Analyst | Python · SQL · Power BI
