@@ -1,4 +1,4 @@
-## Superstore Sales & Profit Analysis
+## Project Name - Superstore Sales & Profit Analysis
 
 An end-to-end exploratory data analysis (EDA) of the Sample Superstore dataset — a US retail store's order-level data — built entirely with pandas, NumPy, and Matplotlib (no Plotly/Seaborn). The project uncovers monthly sales & profit trends, category/sub-category performance, customer-segment behavior, and profit efficiency.
 
@@ -71,13 +71,13 @@ Bonus — profit efficiency by category: Technology and Office Supplies convert 
 
 📈 **Visualizations**
 
-Monthly Sales Analysis (line chart, best/worst month highlighted)
+## Monthly Sales Analysis (line chart, best/worst month highlighted)
 
 <img width="1000" height="500" alt="Monthly sales analysis" src="https://github.com/user-attachments/assets/53f6ddc1-eaa7-4ff7-a6e9-c96aa3614348" />
 
 
 
-Sales Analysis by Category (bar chart)
+## Sales Analysis by Category (bar chart)
 
 <img width="1000" height="500" alt="Sales Analysis by Category" src="https://github.com/user-attachments/assets/34b1395b-7faf-4384-8f41-55969577ee3d" />
 
