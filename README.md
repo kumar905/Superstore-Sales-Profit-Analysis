@@ -1,13 +1,15 @@
-### Superstore Sales & Profit Analysis
+## Superstore Sales & Profit Analysis
 
 An end-to-end exploratory data analysis (EDA) of the Sample Superstore dataset — a US retail store's order-level data — built entirely with pandas, NumPy, and Matplotlib (no Plotly/Seaborn). The project uncovers monthly sales & profit trends, category/sub-category performance, customer-segment behavior, and profit efficiency.
 
-Show Image 
+
 <img width="1000" height="500" alt="Monthly Profit analysis" src="https://github.com/user-attachments/assets/9f698ed9-366d-4705-9543-70626a885ba0" />
+
 
 📌**Project Overview**
 
 The Sample Superstore dataset contains 9,994 order line items from a US-based retail store, spanning 3 product categories (Furniture, Office Supplies, Technology) across 17 sub-categories, sold to 3 customer segments (Consumer, Corporate, Home Office). This case study answers seven core business questions using pure Python data analysis — no BI tool involved.
+
 
 🎯 **Objectives**
 Calculate monthly sales and identify the highest/lowest sales months
@@ -18,6 +20,7 @@ Analyze profit by category and sub-category
 Analyze sales and profit by customer segment
 Analyze the sales-to-profit ratio (profit efficiency)
 
+
 🛠️ **Tools & Libraries**
 
 Tool	Purpose
@@ -27,12 +30,14 @@ NumPy	Numerical operations
 Matplotlib	Data visualization
 Jupyter Notebook	Analysis environment
 
+
 🔍 **Analysis Workflow**
 Data Cleaning — checked for duplicates and null values (none found), converted Order Date/Ship Date to datetime, derived Order Year, Order Month, and Order Month Name
 Monthly Sales & Profit Trends — grouped by month across all years to reveal seasonality
 Category / Sub-Category Analysis — aggregated sales and profit to find top and bottom performers
 Segment Analysis — compared Consumer, Corporate, and Home Office on sales, profit, and margin
 Profit Efficiency — computed a Sales-to-Profit ratio and profit margin % per segment and category
+
 
 📊** Key Findings**
 
@@ -55,6 +60,7 @@ Profit Efficiency — computed a Sales-to-Profit ratio and profit margin % per s
 7	Most profit-efficient segment	Home Office (lowest sales-to-profit ratio, ~14.0% margin) vs Consumer (least efficient, ~11.5% margin)
 
 Bonus — profit efficiency by category: Technology and Office Supplies convert sales into profit efficiently (~17% margin each), while Furniture is highly inefficient — a Sales-to-Profit ratio of ~40x versus ~5.7–5.9x for the other two categories, driven largely by loss-making Tables and Bookcases.
+
 
 📈 **Visualizations**
 
@@ -80,9 +86,12 @@ Sales-to-Profit Ratio by Segment (bar chart)
 
 An end-to-end exploratory data analysis (EDA) of the Sample Superstore dataset — a US retail store's order-level data — built entirely with pandas, NumPy, and Matplotlib (no Plotly/Seaborn). The project uncovers monthly sales & profit trends, category/sub-category performance, customer-segment behavior, and profit efficiency.
 
+
+
 📌 Project Overview
 
 The Sample Superstore dataset contains 9,994 order line items from a US-based retail store, spanning 3 product categories (Furniture, Office Supplies, Technology) across 17 sub-categories, sold to 3 customer segments (Consumer, Corporate, Home Office). This case study answers seven core business questions using pure Python data analysis — no BI tool involved.
+
 
 
 💡 Business Recommendations
@@ -91,6 +100,9 @@ Double down on Technology — highest sales and highest profit; a strong candida
 Re-examine Consumer segment discounting — despite leading on total profit, it has the lowest profit margin of the three segments
 Plan inventory/staffing around seasonality — sales and profit both peak toward year-end (Nov–Dec), suggesting a strong holiday shopping pattern
 
+
 👤 **Author**
 
-Kumar Dadarao Wankhade Aspiring Data Analyst | Python · SQL · Power BI
+Kumar Dadarao Wankhade
+
+LinkedIn - www.linkedin.com/in/kumarwankhade
