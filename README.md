@@ -20,7 +20,6 @@ Analyze the sales-to-profit ratio (profit efficiency)
 
 🛠️ **Tools & Libraries**
 
-Tool	Purpose
 
 Python	Core language
 
@@ -66,25 +65,47 @@ Bonus — profit efficiency by category: Technology and Office Supplies convert 
 
 📈 **Visualizations**
 
-The notebook generates and saves the following charts to images/:
-
 Monthly Sales Analysis (line chart, best/worst month highlighted)
 
-<img width="1000" height="500" alt="Monthly Profit analysis" src="https://github.com/user-attachments/assets/9f698ed9-366d-4705-9543-70626a885ba0" />
+<img width="1000" height="500" alt="Monthly sales analysis" src="https://github.com/user-attachments/assets/53f6ddc1-eaa7-4ff7-a6e9-c96aa3614348" />
+
+
 
 Sales Analysis by Category (bar chart)
 
+<img width="1000" height="500" alt="Sales Analysis by Category" src="https://github.com/user-attachments/assets/34b1395b-7faf-4384-8f41-55969577ee3d" />
+
+
 Sales Analysis by Sub-Category (horizontal bar chart)
+
+<img width="1100" height="600" alt="Sales analysis by Sub-Category" src="https://github.com/user-attachments/assets/a2072ff2-1942-473e-8e94-40ee2b61fb3b" />
+
 
 Monthly Profit Analysis (line chart)
 
+<img width="1000" height="500" alt="Monthly Profit analysis" src="https://github.com/user-attachments/assets/9f698ed9-366d-4705-9543-70626a885ba0" />
+
+
 Profit Analysis by Category (bar chart, losses in red)
+
+<img width="1000" height="500" alt="Profit Analysis by Category" src="https://github.com/user-attachments/assets/54daae29-9b58-42fd-b51b-4b75e4c3bbe8" />
+
 
 Profit Analysis by Sub-Category (horizontal bar chart, losses in red)
 
+<img width="1100" height="600" alt="Profit Analysis by Sub-Catagory" src="https://github.com/user-attachments/assets/cb0981ab-3ffe-4214-9e79-a1be1f759c7c" />
+
+
 Sales & Profit by Customer Segment (grouped bar chart)
 
+<img width="1000" height="500" alt="Sales and Profit by Customer Segment" src="https://github.com/user-attachments/assets/6b7ecf50-4d0e-4bd0-918e-dc861b7f7c20" />
+
+
 Sales-to-Profit Ratio by Segment (bar chart)
+
+<img width="1000" height="500" alt="Sales to Profit Ratio by Segment" src="https://github.com/user-attachments/assets/b9b8209e-f3e4-46cd-bd5a-541c177430d4" />
+
+
 
 💡 Superstore Sales & Profit Analysis
 
