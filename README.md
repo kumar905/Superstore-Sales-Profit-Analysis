@@ -33,17 +33,18 @@ The Sample Superstore dataset contains 9,994 order line items from a US-based re
 5. Jupyter Notebook	Analysis environment
 
 
+
 🔍 **Analysis Workflow**
 
-Data Cleaning — checked for duplicates and null values (none found), converted Order Date/Ship Date to datetime, derived Order Year, Order Month, and Order Month Name
+**Data Cleaning** — checked for duplicates and null values (none found), converted Order Date/Ship Date to datetime, derived Order Year, Order Month, and Order Month Name
 
-Monthly Sales & Profit Trends — grouped by month across all years to reveal seasonality
+**Monthly Sales & Profit Trends** — grouped by month across all years to reveal seasonality
 
-Category / Sub-Category Analysis — aggregated sales and profit to find top and bottom performers
+**Category / Sub-Category Analysis** — aggregated sales and profit to find top and bottom performers
 
-Segment Analysis — compared Consumer, Corporate, and Home Office on sales, profit, and margin
+**Segment Analysis** — compared Consumer, Corporate, and Home Office on sales, profit, and margin
 
-Profit Efficiency — computed a Sales-to-Profit ratio and profit margin % per segment and category
+**Profit Efficiency** — computed a Sales-to-Profit ratio and profit margin % per segment and category
 
 
 
@@ -69,7 +70,7 @@ Profit Efficiency — computed a Sales-to-Profit ratio and profit margin % per s
 Bonus — profit efficiency by category: Technology and Office Supplies convert sales into profit efficiently (~17% margin each), while Furniture is highly inefficient — a Sales-to-Profit ratio of ~40x versus ~5.7–5.9x for the other two categories, driven largely by loss-making Tables and Bookcases.
 
 
-📈 ## **Visualizations**
+📈** Visualizations**
 
 ## Monthly Sales Analysis (line chart, best/worst month highlighted)
 
@@ -111,11 +112,6 @@ Bonus — profit efficiency by category: Technology and Office Supplies convert 
 
 <img width="1000" height="500" alt="Sales to Profit Ratio by Segment" src="https://github.com/user-attachments/assets/b9b8209e-f3e4-46cd-bd5a-541c177430d4" />
 
-
-
-💡 Superstore Sales & Profit Analysis
-
-An end-to-end exploratory data analysis (EDA) of the Sample Superstore dataset a US retail store's order-level data built entirely with pandas, NumPy, and Matplotlib (no Plotly/Seaborn). The project uncovers monthly sales & profit trends, category/sub-category performance, customer-segment behavior, and profit efficiency.
 
 
 
