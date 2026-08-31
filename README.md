@@ -21,10 +21,15 @@ Analyze the sales-to-profit ratio (profit efficiency)
 🛠️ **Tools & Libraries**
 
 Tool	Purpose
+
 Python	Core language
+
 pandas	Data loading, cleaning, aggregation
+
 NumPy	Numerical operations
+
 Matplotlib	Data visualization
+
 Jupyter Notebook	Analysis environment
 
 
