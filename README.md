@@ -3,9 +3,6 @@
 An end-to-end exploratory data analysis (EDA) of the Sample Superstore dataset — a US retail store's order-level data — built entirely with pandas, NumPy, and Matplotlib (no Plotly/Seaborn). The project uncovers monthly sales & profit trends, category/sub-category performance, customer-segment behavior, and profit efficiency.
 
 
-<img width="1000" height="500" alt="Monthly Profit analysis" src="https://github.com/user-attachments/assets/9f698ed9-366d-4705-9543-70626a885ba0" />
-
-
 📌**Project Overview**
 
 The Sample Superstore dataset contains 9,994 order line items from a US-based retail store, spanning 3 product categories (Furniture, Office Supplies, Technology) across 17 sub-categories, sold to 3 customer segments (Consumer, Corporate, Home Office). This case study answers seven core business questions using pure Python data analysis — no BI tool involved.
@@ -67,6 +64,8 @@ Bonus — profit efficiency by category: Technology and Office Supplies convert 
 The notebook generates and saves the following charts to images/:
 
 Monthly Sales Analysis (line chart, best/worst month highlighted)
+
+<img width="1000" height="500" alt="Monthly Profit analysis" src="https://github.com/user-attachments/assets/9f698ed9-366d-4705-9543-70626a885ba0" />
 
 Sales Analysis by Category (bar chart)
 
