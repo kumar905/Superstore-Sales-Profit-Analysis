@@ -4,7 +4,12 @@ An end-to-end exploratory data analysis (EDA) of the Sample Superstore dataset â
 
 Show Image Show Image Show Image Show Image Show Image
 
-Show Image Show Image
+Show Image 
+<img width="1000" height="500" alt="Monthly Profit analysis" src="https://github.com/user-attachments/assets/9f698ed9-366d-4705-9543-70626a885ba0" />
+
+
+
+Show Image
 
 ðŸ“Œ**Project Overview**
 
