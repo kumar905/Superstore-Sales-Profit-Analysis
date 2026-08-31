@@ -46,7 +46,8 @@ Segment Analysis — compared Consumer, Corporate, and Home Office on sales, pro
 Profit Efficiency — computed a Sales-to-Profit ratio and profit margin % per segment and category
 
 
-📊 ##Key Findings
+
+📊 **Key Findings**
 
 
 1	Monthly sales — highest / lowest	Nov ($352,461) highest · Feb ($59,751) lowest
